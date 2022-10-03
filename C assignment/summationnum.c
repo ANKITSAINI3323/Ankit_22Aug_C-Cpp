@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+void main()
 {
     int n,t, i,sum = 0,remainder;
 
